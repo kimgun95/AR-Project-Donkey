@@ -1,6 +1,6 @@
 # AR-Project-Donkey
 
-https://blog.naver.com/harrison1995/222031034759
+블로그 링크 : https://blog.naver.com/harrison1995/222031034759
 
 1. 제목 : Donkey(동물 키우기)
 
